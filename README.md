@@ -6,6 +6,7 @@ This is the first project I ever made (in 2023). It is a Pong game with a menu, 
 - Classic Pong gameplay.
 - Main menu for navigation.
 - Player vs. bot mode.
+- Player vs. player mode.
 - Bot implemented with basic AI logic.
 
 ## Requirements
